@@ -22,7 +22,7 @@
   "dependencies": {
     "async": "0.7.0",
     "ejs": "0.6.1",
-    "express": "2.5.6",
+    "express": "4.19.2",
     "feedparser": "0.16.6",
     "fibers": "1.0.1",
     "firelogger": "0.1.0",
