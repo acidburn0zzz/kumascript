@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "async": "0.7.0",
-    "ejs": "0.6.1",
+    "ejs": "3.1.10",
     "express": "2.5.6",
     "feedparser": "0.16.6",
     "fibers": "1.0.1",
